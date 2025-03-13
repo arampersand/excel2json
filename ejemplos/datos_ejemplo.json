@@ -1,0 +1,37 @@
+[
+    {
+        "ID": 1,
+        "Nombre": "Juan Pérez",
+        "Departamento": "Ventas",
+        "Salario": 45000,
+        "Fecha de Contratación": "2020-01-15"
+    },
+    {
+        "ID": 2,
+        "Nombre": "María García",
+        "Departamento": "Marketing",
+        "Salario": 52000,
+        "Fecha de Contratación": "2019-05-20"
+    },
+    {
+        "ID": 3,
+        "Nombre": "Carlos López",
+        "Departamento": "IT",
+        "Salario": 60000,
+        "Fecha de Contratación": "2021-03-10"
+    },
+    {
+        "ID": 4,
+        "Nombre": "Ana Martínez",
+        "Departamento": "RRHH",
+        "Salario": 48000,
+        "Fecha de Contratación": "2018-11-05"
+    },
+    {
+        "ID": 5,
+        "Nombre": "Luis Rodríguez",
+        "Departamento": "Finanzas",
+        "Salario": 55000,
+        "Fecha de Contratación": "2022-02-28"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "ID Producto": 101,
+        "Producto": "Laptop",
+        "Precio": 1200.5,
+        "Unidades Vendidas": 25,
+        "Fecha de Venta": "2023-01-10"
+    },
+    {
+        "ID Producto": 102,
+        "Producto": "Smartphone",
+        "Precio": 800.75,
+        "Unidades Vendidas": 40,
+        "Fecha de Venta": "2023-01-15"
+    },
+    {
+        "ID Producto": 103,
+        "Producto": "Tablet",
+        "Precio": 350.25,
+        "Unidades Vendidas": 30,
+        "Fecha de Venta": "2023-01-20"
+    },
+    {
+        "ID Producto": 104,
+        "Producto": "Monitor",
+        "Precio": 250.0,
+        "Unidades Vendidas": 15,
+        "Fecha de Venta": "2023-01-25"
+    },
+    {
+        "ID Producto": 105,
+        "Producto": "Teclado",
+        "Precio": 45.99,
+        "Unidades Vendidas": 50,
+        "Fecha de Venta": "2023-01-30"
+    }
+]

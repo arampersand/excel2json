@@ -1,0 +1,100 @@
+{
+    "metadata": {
+        "fecha_conversion": "2025-03-13 10:39:51",
+        "archivo_origen": "check_materiales_ejemplo.xlsx",
+        "hoja": "Movimientos",
+        "total_items": 10
+    },
+    "materiales": [
+        {
+            "ID Movimiento": 1,
+            "Fecha": "2025-03-13",
+            "Código Material": "MAT-001",
+            "Tipo Movimiento": "Entrada",
+            "Cantidad": 50,
+            "Proyecto": "Edificio Central",
+            "Responsable": "Juan Pérez"
+        },
+        {
+            "ID Movimiento": 2,
+            "Fecha": "2025-03-11",
+            "Código Material": "MAT-002",
+            "Tipo Movimiento": "Entrada",
+            "Cantidad": 5,
+            "Proyecto": "Edificio Central",
+            "Responsable": "Juan Pérez"
+        },
+        {
+            "ID Movimiento": 3,
+            "Fecha": "2025-03-09",
+            "Código Material": "HER-001",
+            "Tipo Movimiento": "Salida",
+            "Cantidad": 1,
+            "Proyecto": "Casa Modelo",
+            "Responsable": "Carlos López"
+        },
+        {
+            "ID Movimiento": 4,
+            "Fecha": "2025-03-07",
+            "Código Material": "MAT-003",
+            "Tipo Movimiento": "Entrada",
+            "Cantidad": 3,
+            "Proyecto": "Edificio Central",
+            "Responsable": "María García"
+        },
+        {
+            "ID Movimiento": 5,
+            "Fecha": "2025-03-05",
+            "Código Material": "EQP-001",
+            "Tipo Movimiento": "Salida",
+            "Cantidad": 1,
+            "Proyecto": "Casa Modelo",
+            "Responsable": "Ana Martínez"
+        },
+        {
+            "ID Movimiento": 6,
+            "Fecha": "2025-03-03",
+            "Código Material": "INS-001",
+            "Tipo Movimiento": "Salida",
+            "Cantidad": 5,
+            "Proyecto": "Edificio Central",
+            "Responsable": "Luis Rodríguez"
+        },
+        {
+            "ID Movimiento": 7,
+            "Fecha": "2025-03-01",
+            "Código Material": "MAT-004",
+            "Tipo Movimiento": "Entrada",
+            "Cantidad": 100,
+            "Proyecto": "Edificio Central",
+            "Responsable": "María García"
+        },
+        {
+            "ID Movimiento": 8,
+            "Fecha": "2025-02-27",
+            "Código Material": "HER-002",
+            "Tipo Movimiento": "Salida",
+            "Cantidad": 1,
+            "Proyecto": "Oficinas Norte",
+            "Responsable": "Carlos López"
+        },
+        {
+            "ID Movimiento": 9,
+            "Fecha": "2025-02-25",
+            "Código Material": "INS-002",
+            "Tipo Movimiento": "Entrada",
+            "Cantidad": 10,
+            "Proyecto": "Oficinas Norte",
+            "Responsable": "Pedro Sánchez"
+        },
+        {
+            "ID Movimiento": 10,
+            "Fecha": "2025-02-23",
+            "Código Material": "MAT-001",
+            "Tipo Movimiento": "Salida",
+            "Cantidad": 20,
+            "Proyecto": "Casa Modelo",
+            "Responsable": "Juan Pérez"
+        }
+    ]
+}
